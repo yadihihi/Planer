@@ -2,7 +2,7 @@
 // niemals einen secret Key oder service_role Key.
 window.PLAN_CONFIG = {
   title: 'Unsere Woche',
-  password: 'zusammen2026',
+  password: 'MAVIE',
   supabaseUrl: '',
   supabaseKey: ''
 };
